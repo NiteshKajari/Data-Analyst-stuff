@@ -1,6 +1,7 @@
 # Challenge : Provide Insights to the Marketing Team in Food & Beverage Industry
 
 Link to challenge : https://codebasics.io/challenge/codebasics-resume-project-challenge
+
 Link to presentation Video : http://surl.li/jdoxh
 
 # Problem statement
