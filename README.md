@@ -1,6 +1,8 @@
 # Challenge : Provide Insights to the Marketing Team in Food & Beverage Industry
+
 Link to challenge : https://codebasics.io/challenge/codebasics-resume-project-challenge
-Link to presentation Video : https://www.canva.com/design/DAFnp0Y48iE/UcBEKNU-CCrAqIkxmWYvCw/view?utm_content=DAFnp0Y48iE&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+Link to presentation Video : http://surl.li/jdoxh
+
 # Problem statement
 Domain: F & B   Function: Marketing  
 
